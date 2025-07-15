@@ -1,0 +1,26 @@
+# Logs
+log/
+*.log
+
+# Backups
+backups/
+*.tar.gz
+
+# Cache & historique
+.bash_history
+.config/micro/buffers/history
+
+# APK, binaires, etc.
+*.apk
+*.exe
+*.out
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Node / Rust / Cargo
+node_modules/
+.cargo/
+target/
